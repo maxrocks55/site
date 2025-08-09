@@ -8,3 +8,11 @@ body {
     font-family: def;
     color: whitesmoke;
 }
+header {
+    background-color: rgb(29, 0, 82);
+    color: whitesmoke;
+    text-align: center;
+    img {
+        align-items: left;
+    }
+}
